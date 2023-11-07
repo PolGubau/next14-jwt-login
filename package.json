@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "jose": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "next": "14.0.1",
     "pol-ui": "^1.0.95",
